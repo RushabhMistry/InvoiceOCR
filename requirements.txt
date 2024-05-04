@@ -3,4 +3,3 @@ tabula
 fitz
 pandas
 uvicorn
-frontend
