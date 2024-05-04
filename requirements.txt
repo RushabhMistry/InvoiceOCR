@@ -2,4 +2,4 @@ fastapi
 tabula
 fitz
 pandas
-frontend
+uvicorn
